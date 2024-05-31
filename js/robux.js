@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Add Robux on Roblox 1.2
+// @name KIM_CHAECHAE00        Add Robux on Roblox 1.2
 // @namespace    http://tampermonkey.net/
 // @version      1.2
 // @description  Robux Hack
